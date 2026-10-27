@@ -1,0 +1,24 @@
+node_modules/
+dist/
+.npm-cache/
+*.tsbuildinfo
+.DS_Store
+.env
+.env.*
+!.env.example
+.vercel/
+.vite/
+coverage/
+*.log
+*.local
+.idea/
+.vscode/
+.agents/
+.codex/
+.aws/
+
+# Local implementation briefs; not part of the public application source.
+AGENTS.md
+CODEX_START_HERE.md
+README_FOR_USER.md
+TASKS.md
